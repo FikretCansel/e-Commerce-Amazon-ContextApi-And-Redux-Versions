@@ -1,0 +1,10 @@
+.body{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.body>button{
+    margin: 25px;
+    
+}
+
